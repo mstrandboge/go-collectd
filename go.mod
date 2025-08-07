@@ -1,4 +1,4 @@
-module collectd.org
+module github.com/mstrandboge/go-collectd
 
 go 1.19
 
